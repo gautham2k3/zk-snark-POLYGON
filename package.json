@@ -10,7 +10,7 @@
   "author": "gmchad <chad@ethsd.org>",
   "license": "ISC",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "ffjavascript": "^0.2.57",
     "hardhat": "^2.12.7"
   },
