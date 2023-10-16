@@ -34,6 +34,7 @@ These templates define the logic for the `AND`, `NOT`, and `OR` gates, respectiv
    ```
    npm install
    ```
+   > Add an .env File to store the private key of the Account using to deploy the project
 
 2. Compile the circuit using the command:
    ```
