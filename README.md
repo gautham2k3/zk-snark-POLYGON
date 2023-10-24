@@ -86,6 +86,8 @@ The `customCircuit` demonstrates the construction of a zero-knowledge circuit us
 
 - [B Gautham Naidu](https://www.github.com/gautham2k3)
 - bgautham27@gmail.com
+- [<img src="https://img.youtube.com/vi/tgczSrVx2Ek/maxresdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/tgczSrVx2Ek)
 
 
 ## License
